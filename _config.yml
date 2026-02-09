@@ -1,0 +1,87 @@
+# Site settings
+name: Vaultlight
+title: Vaultlight
+description: "Campaign Hub for Vaultlight – A Noir Heist in the Cosmic Dark"
+url: "https://jakeao.github.io/Vaultlight/"
+baseurl: ""
+
+# Use a GitHub Pages-compatible theme
+theme: minima
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Collections: public player content is published, GM content is private
+collections:
+  info:
+    output: true
+    permalink: /info/:path/
+  world:
+    output: true
+    permalink: /world/:path/
+  sessions:
+    output: true
+    permalink: /sessions/:path/
+  gm:
+    output: true
+    permalink: /gm-vault-32f8a9/:path/
+
+# Defaults for front matter
+defaults:
+  - scope:
+      path: ""
+      type: "info"
+    values:
+      layout: page
+      toc: true
+  - scope:
+      path: ""
+      type: "world"
+    values:
+      layout: page
+      toc: true
+  - scope:
+      path: ""
+      type: "sessions"
+    values:
+      layout: page
+      toc: true
+  - scope:
+      path: ""
+      type: "gm"
+    values:
+      layout: page
+      toc: true
+
+# Excludes from the site build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - .github/
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Minima options
+minima:
+  date_format: "%Y-%m-%d"
+  social_links: []
+  skin: dark
+
+# Permalinks
+permalink: pretty
+
+# Site navigation
+header_pages:
+  - info.md
+  - world.md
+  - sessions.md

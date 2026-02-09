@@ -1,0 +1,277 @@
+---
+---
+
+@import "minima/skins/dark";
+@import "minima/initialize";
+
+// Vaultlight Theme: Noir/Heist/Cosmic Horror
+// Dark backgrounds, bold headers, clean layout with ominous undertones
+
+// Color Palette
+$background-dark: #0a0a0f;      // Deep space black
+$background-medium: #1a1a2e;    // Midnight blue-black
+$background-card: #16213e;      // Slightly lighter for cards
+$primary-accent: #e94560;       // Deep red accent
+$secondary-accent: #8b4789;     // Purple accent (cosmic)
+$text-primary: #e8e8e8;         // Off-white for readability
+$text-muted: #a8a8b8;           // Muted text
+$border-color: #2d2d44;         // Subtle borders
+$neon-glow: #00d9ff;            // Neon cyan for highlights
+
+// Override Minima dark skin
+body {
+  background-color: $background-dark;
+  color: $text-primary;
+  font-family: 'Courier New', Courier, monospace, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+// Headers with dramatic styling
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: $text-primary;
+  text-shadow: 0 0 10px rgba($primary-accent, 0.3);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 2px solid $primary-accent;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 2em;
+  color: $primary-accent;
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: $secondary-accent;
+}
+
+// Links with neon effect
+a {
+  color: $neon-glow;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: lighten($neon-glow, 10%);
+    text-shadow: 0 0 5px rgba($neon-glow, 0.5);
+  }
+  
+  &:visited {
+    color: darken($neon-glow, 15%);
+  }
+}
+
+// Site header
+.site-header {
+  background-color: $background-medium;
+  border-bottom: 3px solid $primary-accent;
+  border-top: none;
+  
+  .site-title {
+    font-family: 'Georgia', serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: $text-primary;
+    text-shadow: 0 0 15px rgba($primary-accent, 0.5);
+    
+    &:hover {
+      text-decoration: none;
+      text-shadow: 0 0 20px rgba($primary-accent, 0.8);
+    }
+  }
+  
+  .site-nav {
+    .page-link {
+      color: $text-muted;
+      font-weight: 500;
+      text-transform: uppercase;
+      font-size: 0.9em;
+      letter-spacing: 0.05em;
+      
+      &:hover {
+        color: $neon-glow;
+      }
+    }
+  }
+}
+
+// Main content area
+.page-content {
+  background: linear-gradient(to bottom, $background-dark 0%, $background-medium 100%);
+  padding: 2em 0;
+  min-height: calc(100vh - 200px);
+}
+
+.wrapper {
+  background-color: rgba($background-card, 0.6);
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  padding: 2em;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+// Post/page content
+.post-content, .page-content article {
+  h1, h2, h3 {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}
+
+// Lists with custom styling
+ul, ol {
+  li {
+    margin-bottom: 0.5em;
+    
+    &::marker {
+      color: $primary-accent;
+    }
+  }
+}
+
+// Blockquotes with noir feel
+blockquote {
+  border-left: 4px solid $primary-accent;
+  background-color: rgba($background-dark, 0.5);
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: $text-muted;
+  
+  p {
+    margin-bottom: 0;
+  }
+}
+
+// Code blocks
+code, pre {
+  background-color: $background-dark;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  font-family: 'Courier New', Courier, monospace;
+  color: $neon-glow;
+}
+
+pre {
+  padding: 1em;
+  overflow-x: auto;
+  
+  code {
+    border: none;
+    background-color: transparent;
+  }
+}
+
+// Tables
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  background-color: rgba($background-card, 0.5);
+  
+  th, td {
+    border: 1px solid $border-color;
+    padding: 0.75em;
+    text-align: left;
+  }
+  
+  th {
+    background-color: $background-medium;
+    color: $primary-accent;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  tr:hover {
+    background-color: rgba($primary-accent, 0.1);
+  }
+}
+
+// Footer
+.site-footer {
+  background-color: $background-medium;
+  border-top: 2px solid $primary-accent;
+  color: $text-muted;
+  
+  a {
+    color: $text-muted;
+    
+    &:hover {
+      color: $neon-glow;
+    }
+  }
+}
+
+// Special elements
+.post-meta {
+  color: $text-muted;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $border-color;
+  margin: 2em 0;
+}
+
+// Home page styling
+.home {
+  .post-list {
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
+
+// Aspect styling (for FATE aspects)
+em {
+  color: $secondary-accent;
+  font-weight: 600;
+}
+
+strong {
+  color: $primary-accent;
+  font-weight: 700;
+}
+
+// Custom class for atmospheric quotes
+.atmospheric-quote {
+  font-family: 'Georgia', serif;
+  font-size: 1.2em;
+  text-align: center;
+  margin: 2em 0;
+  padding: 1em;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
+  color: $text-muted;
+  font-style: italic;
+}
+
+// Responsive adjustments
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  .wrapper {
+    padding: 1em;
+  }
+}
