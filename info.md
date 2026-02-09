@@ -16,7 +16,7 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 
 Below are campaign-specific resources and rules clarifications, organized by topic.
 
-{% assign groups = site.info | group_by: "topic" | sort: "topic" %}
+{% assign groups = site.info | group_by: "topic" | sort_natural: "name" %}
 {% for group in groups %}
 
   {% assign has_content = false %}
