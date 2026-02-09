@@ -9,7 +9,7 @@ permalink: /gm-vault-32f8a9/
 
 This page contains GM-only notes, planning documents, and hidden campaign information.
 
-{% assign groups = site.gm | group_by: "topic" | sort: 'topic' %}
+{% assign groups = site.gm | group_by: "topic" | sort: 'name' %}
 {% for group in groups %}
 
   {% if group.items.size > 0 %}
