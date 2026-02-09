@@ -9,7 +9,7 @@ This page contains all player-facing information about the world of Vaultlight â
 
 Information is added here as it's discovered during the campaign.
 
-{% assign groups = site.world | group_by: "topic" | sort: 'topic' %}
+{% assign groups = site.world | group_by: "topic" | sort: 'name' %}
 {% for group in groups %}
 
   {% if group.items.size > 0 %}
