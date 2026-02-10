@@ -9,7 +9,7 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 
 ## Core Resources
 
-- **[FATE Condensed SRD](https://fate-srd.com/fate-condensed/get-started)** – The full system reference
+- **[FATE Condensed SRD](https://fate-srd.com/fate-condensed/)** – The full system reference
 - **[Official FATE Condensed PDF](https://www.evilhat.com/home/fate-condensed/)** – Free download from Evil Hat
 
 ## Quick Reference

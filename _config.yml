@@ -6,7 +6,7 @@ url: "https://jakeao.github.io/Vaultlight/"
 baseurl: ""
 
 # Use a GitHub Pages-compatible theme
-theme: minima
+remote_theme: jekyll/minima
 
 # Markdown settings
 markdown: kramdown
@@ -28,7 +28,7 @@ collections:
     permalink: /sessions/:path/
   gm:
     output: true
-    permalink: /gm-vault-32f8a9/:path/
+    permalink: /gm/:path/
 
 # Defaults for front matter
 defaults:
@@ -70,6 +70,7 @@ exclude:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Minima options
 minima:

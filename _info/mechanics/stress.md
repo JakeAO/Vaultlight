@@ -13,11 +13,7 @@ Stress represents superficial harm—close calls, minor injuries, and momentary 
 
 - **Stress boxes:** Usually 3 (more with high Physique or Will)
 - **Clearing stress:** All stress clears at the end of a scene
-- **Taking stress:** Mark a box equal to the shifts of harm (or higher)
-
-### Example
-You take 3 stress → mark your 3-stress box.
-If the 3-stress box is full, mark the 4-stress box instead (if available).
+- **Taking stress:** Mark a boxes equal to the shifts of harm
 
 ## Consequences
 
@@ -32,10 +28,14 @@ Consequences are lasting conditions that represent serious harm.
 When you can't (or won't) absorb harm with stress, take a consequence:
 - Write an aspect describing the harm (*"Broken Ribs"*, *"Shaken Confidence"*)
 - This aspect can be invoked against you
+- The character who caused the consequence gets a free invoke on it
 
 ### Recovering Consequences
 - Requires successful Overcome action (usually during downtime)
 - Time must pass according to severity
+  - **Mild**: Clears after one scene
+  - **Moderate**: Clears after one session
+  - **Severe**: Clears when you reach a breakthrough
 
 ## Being Taken Out
 

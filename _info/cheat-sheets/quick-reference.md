@@ -14,6 +14,7 @@ Roll **4 Fate Dice (4dF)**: Each die shows **+**, **-**, or **blank**
 - Compare to target number or opposition
 
 ### The Ladder
+
 | Result | Rating |
 |--------|--------|
 | +5 | Superb |
@@ -41,25 +42,41 @@ Roll **4 Fate Dice (4dF)**: Each die shows **+**, **-**, or **blank**
 
 ## Aspects & Fate Points
 
-**Invoke** (spend 1 FP): +2 to roll OR reroll dice
-**Compel** (earn 1 FP): Accept complication from aspect
+- **Invoke** (spend 1 FP): +2 to roll OR reroll dice
+- **Compel** (earn 1 FP): Accept complication from aspect
 
 ## Stress & Consequences
 
-**Stress:** Mark boxes to absorb harm (clears end of scene)
-**Consequences:** 
-- Mild (-2): Clears after one scene
-- Moderate (-4): Clears after one session  
-- Severe (-6): Clears after one scenario
+- **Stress:** Mark boxes to absorb harm (clears end of scene)
+- **Consequences:** 
+  - Mild (-2): Clears after one scene
+  - Moderate (-4): Clears after one session  
+  - Severe (-6): Clears after one scenario
 
 ## Common Skills
 
-**Physical:** Athletics, Fight, Physique, Shoot
-**Mental:** Empathy, Lore, Notice, Will
-**Social:** Contacts, Deceive, Provoke, Rapport, Resources
-**Sneaky:** Burglary, Stealth
-**Tech/Craft:** Crafts, Drive
+- **Academics** — Everyday education and practical knowledge.
+- **Athletics** — Physical movement, agility, and dodging.
+- **Burglary** — Bypassing security, locks, and petty crime.
+- **Contacts** — Knowing people and tapping networks.
+- **Crafts** — Building, repairing, and improvising tech.
+- **Deceive** — Lying, bluffing, and false identities.
+- **Drive** — Handling vehicles and tricky maneuvers.
+- **Empathy** — Reading emotions and intentions.
+- **Fight** — Hand-to-hand combat and melee.
+- **Investigate** — Careful analysis and solving mysteries.
+- **Lore** — Specialized or arcane knowledge.
+- **Notice** — Immediate perception and alertness.
+- **Physique** — Strength, endurance, and toughness.
+- **Provoke** — Intimidation and pushing reactions.
+- **Rapport** — Building trust and friendly influence.
+- **Resources** — Access to money and material support.
+- **Shoot** — Ranged combat and marksmanship.
+- **Stealth** — Staying hidden and moving unseen.
+- **Will** — Mental resilience and self-control.
+
+
 
 ---
 
-**Full Rules:** [FATE Condensed SRD](https://fate-srd.com/fate-condensed/get-started)
+**Full Rules:** [FATE Condensed SRD](https://fate-srd.com/fate-condensed/)

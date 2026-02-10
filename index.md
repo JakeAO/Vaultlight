@@ -12,20 +12,20 @@ Welcome to **Vaultlight**, a noir heist campaign set in the cosmic dark.
 
 ## The Premise
 
-In a city perpetually shrouded in shadow, where neon signs flicker against the void and ancient powers stir beneath art deco facades, a crew of specialists has been assembled for an impossible job.
+You're not a hero. You're a specialist, a fixer, someone who knows how to work the angles in a world that doesn't give second chances. Maybe you're an ex-con, a hustler, a professional with burned bridges, or just someone who's had a run of bad luck. Whatever brought you here, you're broke, you're desperate, and you're out of options.
 
-The **Vaultlight** is a repository of forbidden knowledge, a vault said to contain secrets that predate the city itself. Some say it holds the key to understanding the cosmic horror lurking at the edges of reality. Others claim it's a doorway to something that should never be opened.
+Then Mr. Nobody calls.
 
-Your crew has been hired—or perhaps compelled—to break in and retrieve an artifact from its depths. But in a city where nothing is as it seems, where every shadow conceals a watcher and every alliance is temporary, the real question isn't whether you can pull off the heist.
+He's offering the job of a lifetime: break into The Penumbra—an exclusive underground casino where politicians, crime lords, and the ultra-wealthy gather to make deals that never see daylight—and loot Vault 9. The pay? Life-changing money. Enough to fix everything.
 
-It's whether you'll survive what you find inside.
+But here's the question that should bother you more than it does: Why does this job pay so good?
 
 ## Atmosphere
 
-- **Noir Aesthetic:** Dark streets, morally grey characters, betrayal and redemption
-- **Heist Structure:** Planning, execution, improvisation, consequences
-- **Cosmic Horror:** Ancient mysteries, sanity-testing revelations, powers beyond comprehension
-- **Urban Gothic:** Art deco architecture, perpetual twilight, oppressive atmosphere
+- **Stylish Underworld:** A world of shadowy deals, neutral-ground casinos, and professionals who live by codes
+- **Heist Planning:** Casing the target, recruiting specialists, contingency plans, and the perfect crime
+- **Creeping Mystery:** Something feels off about this job. About The Penumbra. About Mr. Nobody himself.
+- **Noir Atmosphere:** Cigarette smoke, rain-slicked streets, questions you shouldn't ask, and answers you won't like
 
 ## System
 

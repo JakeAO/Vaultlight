@@ -3,6 +3,7 @@ layout: page
 title: GM Vault
 description: Private GM notes and campaign resources
 permalink: /gm-vault-32f8a9/
+nav_exclude: true
 ---
 
 # GM Vault – Campaign Resources
