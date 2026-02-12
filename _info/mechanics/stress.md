@@ -5,8 +5,6 @@ topic: Mechanics
 summary: Tracking damage and lasting harm
 ---
 
-# Stress & Consequences
-
 ## Stress
 
 Stress represents superficial harm—close calls, minor injuries, and momentary setbacks.

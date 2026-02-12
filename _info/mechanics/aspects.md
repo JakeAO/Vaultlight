@@ -5,8 +5,6 @@ topic: Mechanics
 summary: How aspects and fate points work in FATE
 ---
 
-# Aspects & Fate Points
-
 ## What Are Aspects?
 
 Aspects are short phrases that describe something important about a character, scene, or object.

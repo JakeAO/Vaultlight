@@ -5,8 +5,6 @@ topic: Locations
 summary: "[Short description of the district, landmark, or locale]"
 ---
 
-# [Location Name]
-
 **Type:** [District / Landmark / Site]
 
 ## Overview

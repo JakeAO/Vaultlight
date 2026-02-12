@@ -5,8 +5,6 @@ topic: NPCs
 summary: "[One-sentence summary of the NPC's role or mystery]"
 ---
 
-# [NPC Name]
-
 **Role:** (e.g., Fixer / Detective / Heir Apparent)
 
 ## Description

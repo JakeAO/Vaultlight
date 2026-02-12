@@ -5,8 +5,6 @@ topic: Mechanics
 summary: Quick reference for the four actions in FATE Condensed
 ---
 
-# Actions in FATE
-
 In FATE Condensed, there are four types of actions you can take:
 
 ## Overcome

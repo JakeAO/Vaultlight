@@ -5,8 +5,6 @@ index: [Session number]
 summary: "[One-line log of what happened]"
 ---
 
-# Session [Number]: [Title]
-
 **Date:** [Session date]
 **Location:** [Primary locale or venue]
 

@@ -5,8 +5,6 @@ topic: Cheat Sheets
 summary: One-page reference for common FATE mechanics
 ---
 
-# FATE Condensed Quick Reference
-
 ## The Dice
 
 Roll **4 Fate Dice (4dF)**: Each die shows **+**, **-**, or **blank**

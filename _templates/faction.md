@@ -5,8 +5,6 @@ topic: Factions
 summary: "[One-sentence summary of the faction's purpose, threat, or influence]"
 ---
 
-# [Faction Name]
-
 **Type:** [Criminal syndicate / Cult / Organization]
 
 ## Overview
