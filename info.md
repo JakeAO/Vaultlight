@@ -9,6 +9,7 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 
 ## Core Resources
 
+- **[Embedded Rulebook]({{ '/info/core-resources/embedded-rulebook/' | relative_url }})** – View Fate Condensed directly on-site
 - **[FATE Condensed SRD](https://fate-srd.com/fate-condensed/)** – The full system reference
 - **[Official FATE Condensed PDF](https://www.evilhat.com/home/fate-condensed/)** – Free download from Evil Hat
 

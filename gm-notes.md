@@ -2,7 +2,7 @@
 layout: page
 title: GM Vault
 description: Private GM notes and campaign resources
-permalink: /gm-vault-32f8a9/
+permalink: /gm/
 nav_exclude: true
 ---
 
@@ -23,13 +23,5 @@ This page contains GM-only notes, planning documents, and hidden campaign inform
   </ul>
   {% endif %}
 {% endfor %}
-
----
-
-**Quick Links:**
-- [Campaign Planning](#)
-- [Session Prep](#)
-- [NPC Secrets](#)
-- [Plot Threads](#)
 
 *Remember: This URL is obscured but not secure. Don't post sensitive player information here.*

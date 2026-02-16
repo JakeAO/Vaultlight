@@ -21,6 +21,10 @@ summary: "[One-sentence summary of the NPC's role or mystery]"
 - **Goals:** [Short summary of what the NPC wants]
 - **Threat Level:** [How dangerous or influential they are]
 
+## Aspects
+- ***"[Aspect text]"***
+- ***"[Aspect text]"***
+
 ## Relationships
 [How this NPC is connected to other factions, locations, or NPCs.] 
 

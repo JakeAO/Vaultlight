@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quick Reference Sheet
-topic: Cheat Sheets
+title: Cheat Sheet
+topic: Quick Reference
 summary: One-page reference for common FATE mechanics
 ---
 
