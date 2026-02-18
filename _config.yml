@@ -29,6 +29,9 @@ collections:
   gm:
     output: true
     permalink: /gm/:path/
+  pcs:
+    output: true
+    permalink: /pcs/:path/
 
 # Defaults for front matter
 defaults:
@@ -53,6 +56,12 @@ defaults:
   - scope:
       path: ""
       type: "gm"
+    values:
+      layout: page
+      toc: true
+  - scope:
+      path: ""
+      type: "pcs"
     values:
       layout: page
       toc: true
@@ -86,3 +95,4 @@ header_pages:
   - info.md
   - world.md
   - sessions.md
+  - pcs.md
