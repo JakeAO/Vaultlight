@@ -41,17 +41,17 @@ Assign your ranked skills based on what your character does best:
 
 ## 4. Select Stunts
 
-Each character starts with **one to three Stunts**.
+Each character starts with **three to five Stunts**.
 A Stunt is a special trick you can do, usually tied to a Skill (e.g., "Because I’m a Cat Burglar, I can always find an escape route when inside a building"). Stunts can also be tied to unique equipment that your character always has on their person.
 
-*Each stunt after the first reduces your total Refresh by 1.*
+*Each stunt after the third reduces your total Refresh by 1.*
 
 **Note:**
 At least **one Aspect or Stunt** should have a secret tie to the supernatural world—something with a seemingly mundane explanation that would be recontextualized if the supernatural world were revealed.
 
 ## 5. Set Your Refresh
 
-Default **Refresh** is 3. This means you start each session with 3 Fate Points, unless you take extra Stunts (each extra stunt past the first costs 1 Refresh).
+Default **Refresh** is 3. This means you start each session with 3 Fate Points, unless you take extra Stunts (each extra stunt past the third costs 1 Refresh).
 
 ## 6. Final Touches
 
