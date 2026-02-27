@@ -155,6 +155,34 @@ blockquote {
   }
 }
 
+// Prose blocks inside details
+details {
+  margin: 1.5em 0;
+
+  summary {
+    cursor: pointer;
+    padding: 0.35em 0;
+  }
+
+  summary::marker {
+    color: $primary-accent;
+  }
+}
+
+details .details-prose {
+  background-color: rgba($background-dark, 0.65);
+  border: 1px solid $border-color;
+  border-left: 4px solid $secondary-accent;
+  border-radius: 4px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+  margin-top: 0.75em;
+  padding: 0.5em 1.25em 1em;
+}
+
+details .details-prose > *:last-child {
+  margin-bottom: 0;
+}
+
 // Code blocks
 code, pre {
   background-color: $background-dark;

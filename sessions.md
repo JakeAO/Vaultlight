@@ -12,7 +12,7 @@ Below are session summaries documenting the crew's exploits in Vaultlight, order
 {% if items.size > 0 %}
 <ul>
 {% for doc in items %}
-  <li><strong>Session {{ doc.index }}:</strong> <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>{% if doc.summary %} — {{ doc.summary }}{% endif %}</li>
+  <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>{% if doc.summary %} — {{ doc.summary }}{% endif %}</li>
 {% endfor %}
 </ul>
 {% else %}

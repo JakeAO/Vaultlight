@@ -14,7 +14,7 @@ This repository hosts the campaign hub for **Vaultlight**, a FATE Condensed camp
   - Sessions: Chronological session summaries
   
 - **Private GM Content:**
-  - Accessible via obscured URL (`/gm-vault-32f8a9/`)
+  - Accessible via obscured URL (`/gm/`)
   - Campaign planning and arc notes
   - Hidden NPCs and secret motivations
   - World secrets and cosmic horror revelations
@@ -40,7 +40,7 @@ This repository hosts the campaign hub for **Vaultlight**, a FATE Condensed camp
 bundle install
 
 # Serve locally
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 
 # Build for production
 bundle exec jekyll build

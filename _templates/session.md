@@ -5,25 +5,25 @@ index: [Session number]
 summary: "[One-line log of what happened]"
 ---
 
-**Date:** [Session date]
-**Location:** [Primary locale or venue]
+**Primary Location:** [Primary locale or venue]
 
 ## Summary
 [Brief paragraph describing the major narrative thrust of the session.]
 
-## Key Beats
-1. [First major scene or hook]
-2. [Important reveal or conflict]
-3. [Ending note or cliffhanger]
+## Key Scenes
 
-## Key Information Revealed
-- [Any lore, clues, or secrets uncovered]
-- [Important NPC reactions or decisions]
+### [Scene Name]
+<details markdown="1">
+<summary markdown="span">[Very short summary of scene content.]</summary>
+<div class="details-prose" markdown="1">
+[Scene content]
+</div>
+</details>
 
-## Player Questions / Goals
-- [Ongoing investigations or player promises]
+## Ongoing Player Actions (optional)
+- [Ongoing investigations, between-session events, or downtime activities.]
 
-## Aspects Introduced
+## World Aspects Introduced (optional)
 - ***"[Aspect text]"***
 
 ---
