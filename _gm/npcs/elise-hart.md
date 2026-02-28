@@ -8,7 +8,7 @@ summary: Night manager of the Montrose Hotel, a discreet fixer with an impeccabl
 **Role:** Hotel Night Manager / Discreet Fixer
 
 ## Description
-Elise Hart runs the Montrose after dark, maintaining the hotel's calm facade while quietly shaping who gets access to rooms, elevators, and back corridors. She remembers every face, every debt, and every favor, and she sells her discretion only to those who can afford the price.
+Elise Hart runs the [Montrose Hotel]({{ '/world/locations/montrose-hotel/' | relative_url }}) after dark, maintaining the hotel's calm facade while quietly shaping who gets access to rooms, elevators, and back corridors. She remembers every face, every debt, and every favor, and she sells her discretion only to those who can afford the price.
 
 ## Appearance
 - Immaculate charcoal suit with a scarlet pin

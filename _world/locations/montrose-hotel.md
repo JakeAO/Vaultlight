@@ -5,10 +5,10 @@ topic: Locations
 summary: Historic hotel near The Penumbra, favored by discreet out-of-town guests.
 ---
 
-**Type:** Landmark
+**Type:** Landmark - Hotel
 
 ## Overview
-The Montrose Hotel is a historic, well-kept refuge a short walk from The Penumbra. It serves as the preferred rest stop for visiting high rollers and quiet operators, offering immaculate service and a culture of discretion that keeps stories contained.
+The Montrose Hotel is a historic, well-kept refuge a short walk from [The Penumbra]({{ '/world/locations/the-penumbra/' | relative_url }}). It serves as the preferred rest stop for visiting high rollers and quiet operators, offering immaculate service and a culture of discretion that keeps stories contained.
 
 ## Atmosphere
 - **Lighting / Weather:** Warm, amber lighting that softens the rain outside and keeps the lobby glowing late into the night.

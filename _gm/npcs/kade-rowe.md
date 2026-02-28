@@ -16,13 +16,13 @@ Kade Rowe runs the Penumbra's security with a boxer's timing and a tactician's p
 - A gold whistle on a chain, worn but polished
 
 ## Known Information
-- **Location:** The Penumbra, back corridors and security office
-- **Connections:** Off-duty cops, Iron District labor foremen, private security firms
+- **Location:** [The Penumbra]({{ '/world/locations/the-penumbra/' | relative_url }}), back corridors and security office
+- **Connections:** Off-duty cops, [Iron District]({{ '/world/locations/iron-district/' | relative_url }}) labor foremen, private security firms
 - **Goals:** Keep the Penumbra safe without drawing attention from authorities
 - **Threat Level:** High direct danger, moderate influence
 
 ## Relationships
-Kade tolerates Gordon Hale for the access he can provide, but distrusts his habit of selling favors.
+Kade tolerates [Gordon Hale]({{ '/world/npcs/gordon-hale/' | relative_url }}) for the access he can provide, but distrusts his habit of selling favors.
 
 ## Aspects
 - ***"Ends Fights Before They Start"***

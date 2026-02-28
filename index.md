@@ -16,7 +16,7 @@ You're not a hero. You're a specialist, a fixer, someone who knows how to work t
 
 Then Mr. Nobody calls.
 
-He's offering the job of a lifetime: break into The Penumbra—an exclusive underground casino where politicians, crime lords, and the ultra-wealthy gather to make deals that never see daylight—and loot Vault 9. The pay? Life-changing money. Enough to fix everything.
+He's offering the job of a lifetime: break into [The Penumbra]({{ '/world/locations/the-penumbra/' | relative_url }})—an exclusive underground casino where politicians, crime lords, and the ultra-wealthy gather to make deals that never see daylight—and loot Vault 9. The pay? Life-changing money. Enough to fix everything.
 
 But here's the question that should bother you more than it does: Why does this job pay so good?
 

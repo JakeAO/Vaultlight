@@ -16,13 +16,13 @@ Marla Voss runs the Penumbra's public floor, balancing glamour with control. She
 - A scar on her knuckles from an old brawl
 
 ## Known Information
-- **Location:** The Penumbra, main floor and private rooms
-- **Connections:** Penumbra security, Iron District fixers, house gamblers
+- **Location:** [The Penumbra]({{ '/world/locations/the-penumbra/' | relative_url }}), main floor and private rooms
+- **Connections:** Penumbra security, [Iron District]({{ '/world/locations/iron-district/' | relative_url }}) fixers, house gamblers
 - **Goals:** Protect the Penumbra's neutrality and keep the big players spending
 - **Threat Level:** High influence, moderate direct danger
 
 ## Relationships
-Marla keeps Elise Hart at the Montrose on a quiet retainer for emergency rooms and cover stories.
+Marla keeps [Elise Hart]({{ '/gm/npcs/elise-hart/' | relative_url }}) at the [Montrose Hotel]({{ '/world/locations/montrose-hotel/' | relative_url }}) on a quiet retainer for emergency rooms and cover stories.
 
 ## Aspects
 - ***"Neutrality Above All"***

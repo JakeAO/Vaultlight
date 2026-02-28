@@ -5,7 +5,7 @@ topic: Locations
 summary: The city's infamous underground casino and neutral ground for high-stakes deals.
 ---
 
-**Type:** Landmark
+**Type:** Landmark - Casino
 
 ## Overview
 The Penumbra is Vaultlight's most infamous underground casino and neutral ground. It is an opulent, labyrinthine den of smoke, neon, and whispered deals where fortunes are made and lost, and power brokers play for stakes that go far beyond chips and cards.

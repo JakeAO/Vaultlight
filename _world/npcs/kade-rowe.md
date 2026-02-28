@@ -16,11 +16,11 @@ Kade Rowe runs the Penumbra's public floor security with a boxer's timing and a 
 - A gold whistle on a chain, worn but polished
 
 ## Known Information
-- **Location:** The Penumbra gambling floor, back corridors, and security office
-- **Connections:** Off-duty cops, Iron District labor foremen, private security firms
+- **Location:** [The Penumbra]({{ '/world/locations/the-penumbra/' | relative_url }}) gambling floor, back corridors, and security office
+- **Connections:** Off-duty cops, [Iron District]({{ '/world/locations/iron-district/' | relative_url }}) labor foremen, private security firms
 
 ## Relationships
-Kade tolerates Gordon Hale for the access he can provide, but distrusts his habit of selling favors.
+Kade tolerates [Gordon Hale]({{ '/world/npcs/gordon-hale/' | relative_url }}) for the access he can provide, but distrusts his habit of selling favors.
 
 ## Known Aspects
 - ***"Never Forgets A Face"***

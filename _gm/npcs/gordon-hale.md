@@ -16,13 +16,13 @@ Gordon Hale is the Montrose's public face of service and the back channel for ev
 - Quiet, appraising eyes that miss nothing
 
 ## Known Information
-- **Location:** Montrose Hotel, concierge desk and suites
+- **Location:** [Montrose Hotel]({{ '/world/locations/montrose-hotel/' | relative_url }}), concierge desk and suites
 - **Connections:** Cab companies, shipping clerks, black-market couriers
 - **Goals:** Expand his favor network and keep the Montrose indispensable
 - **Threat Level:** Low direct danger, high leverage
 
 ## Relationships
-Gordon trades information with Iron District dock supervisors and keeps a standing tab with Penumbra bartenders.
+Gordon trades information with [Iron District]({{ '/world/locations/iron-district/' | relative_url }}) dock supervisors and keeps a standing tab with [The Penumbra]({{ '/world/locations/the-penumbra/' | relative_url }}) bartenders.
 
 ## Aspects
 - ***"Anything, For the Right Favor"***

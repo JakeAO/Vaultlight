@@ -16,7 +16,7 @@ Gordon Hale is the Montrose's public face of service and the back channel for ev
 - Quiet, appraising eyes that miss nothing
 
 ## Known Information
-- **Location:** Montrose Hotel concierge desk, lobby, and suites
+- **Location:** [Montrose Hotel]({{ '/world/locations/montrose-hotel/' | relative_url }}) concierge desk, lobby, and suites
 - **Connections:** Cab companies, shipping clerks, couriers
 
 ## Known Aspects

@@ -5,10 +5,10 @@ topic: Locations
 summary: "A rundown hole-in-the-wall diner at the edge of the Iron District, serving mediocre food to late-night crowds in a cramped, noisy space."
 ---
 
-**Type:** Landmark
+**Type:** Landmark - Dining
 
 ## Overview
-Benni's is a narrow slice of worn-out hospitality wedged between a dry cleaner and a warehouse at the edge of the Iron District. The diner serves passable food at cheap prices and stays open later than most establishments in Lake City—until around 10pm, when even the desperate are heading home. It's the kind of place where you go when you need a meal and don't care much about the quality, or when you need to meet someone in a space too public to be truly dangerous but too anonymous to draw much attention.
+Benni's is a narrow slice of worn-out hospitality wedged between a dry cleaner and a warehouse at the edge of the [Iron District]({{ '/world/locations/iron-district/' | relative_url }}). The diner serves passable food at cheap prices and stays open later than most establishments in Lake City—until around 10pm, when even the desperate are heading home. It's the kind of place where you go when you need a meal and don't care much about the quality, or when you need to meet someone in a space too public to be truly dangerous but too anonymous to draw much attention.
 
 ## Atmosphere
 - **Lighting / Weather:** Harsh fluorescent lights cast a sickly glow over everything, making the food look even less appealing than it tastes. The windows are perpetually grimy, filtering what little natural light reaches this edge of the district.
@@ -28,6 +28,5 @@ TBD
 ## Aspects
 - ***"Too Loud for Eavesdropping"***
 - ***"Open When Everything Else Closes"***
-- ***"Nobody Looks Too Closely Here"***
 
 ---
