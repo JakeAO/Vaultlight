@@ -8,7 +8,7 @@ summary: Head concierge at the Montrose Hotel who can arrange anything for the r
 **Role:** Montrose Hotel Concierge
 
 ## Description
-Gordon Hale is the Montrose's public face of service and the back channel for everything else. He arranges transport, alibis, and last-minute amenities, always with a smile that never reveals how many problems he just solved.
+Gordon Hale is the [Montrose Hotel]({{ '/world/locations/montrose-hotel/' | relative_url }})'s public face of service and the back channel for everything else. He arranges transport, alibis, and last-minute amenities, always with a smile that never reveals how many problems he just solved.
 
 ## Appearance
 - Silver hair, perfectly combed
@@ -16,10 +16,10 @@ Gordon Hale is the Montrose's public face of service and the back channel for ev
 - Quiet, appraising eyes that miss nothing
 
 ## Known Information
-- **Location:** [Montrose Hotel]({{ '/world/locations/montrose-hotel/' | relative_url }}) concierge desk, lobby, and suites
+- **Location:** Montrose Hotel concierge desk, lobby, and suites
 - **Connections:** Cab companies, shipping clerks, couriers
 
 ## Known Aspects
-TBD
+- ***"Anything For The Right Price"***
 
 ---
