@@ -2,6 +2,7 @@
 layout: page
 title: Kade Rowe
 topic: NPCs
+affiliation: Penumbra
 summary: Head of security at the Penumbra, a former boxer who knows every exit.
 ---
 

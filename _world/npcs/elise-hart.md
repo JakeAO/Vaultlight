@@ -2,6 +2,7 @@
 layout: page
 title: Elise Hart
 topic: NPCs
+affiliation: Montrose Hotel
 summary: Night manager of the Montrose Hotel.
 ---
 

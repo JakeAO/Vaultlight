@@ -2,6 +2,7 @@
 layout: page
 title: "[NPC Name]"
 topic: NPCs
+affiliation: [NPC Organizational Affiliation]
 summary: "[One-sentence summary of the NPC's role or mystery]"
 ---
 

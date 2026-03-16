@@ -2,6 +2,7 @@
 layout: page
 title: Marla Voss
 topic: NPCs
+affiliation: Penumbra
 summary: The Penumbra's floor manager.
 ---
 

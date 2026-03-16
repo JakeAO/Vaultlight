@@ -2,6 +2,7 @@
 layout: page
 title: Gordon Hale
 topic: NPCs
+affiliation: Montrose Hotel
 summary: Head concierge at the Montrose Hotel who can arrange anything for the right price.
 ---
 
