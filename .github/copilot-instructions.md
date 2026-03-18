@@ -12,6 +12,7 @@ These instructions apply to all Copilot-assisted edits in this repository.
 ## 1) Consistency and Cohesiveness
 
 - Match the established Vaultlight tone: noir, grounded, concise, and evocative.
+- Match theming, worldbuilding, and trajectory established in `_gm/notes/campaign-trajectory-distilled.md`.
 - Reuse existing structure from `_templates/` for article types (`npc.md`, `location.md`, `session.md`, `faction.md`).
 - Keep section ordering and heading styles aligned with existing content in `_world/`, `_sessions/`, `_info/`, and `_gm/`.
 - Preserve front matter conventions used by each collection (for example: `layout`, `title`, `topic`, `summary`, and `index` where relevant).
