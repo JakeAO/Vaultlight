@@ -73,9 +73,9 @@ purpose: "Succinct overview of arcs, principals, locations, and themes for quick
 
 ### **The Vault Basements (structural secret of the Penumbra)**
 - **Known behind the screen:**  
-  - **B3:** Vaults 1–3  
-  - **B4:** Vaults 4–6  
-  - **B5:** Vaults 7–9 (**Vault 9 holds Discovery**)
+  - **B2:** Vaults 1–3, containing more mundane valuables, records, and dangerous knowledge  
+  - **B3:** Vaults 4–6  
+  - **B4/B5:** the deeper restricted vault architecture, culminating in **Vault 9** on **B5**
 - **Role:** the descent; each deeper level is a tighter reality with stricter access, more watchers, and weirder infrastructure.
 
 ### **Iron District**
