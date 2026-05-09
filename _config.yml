@@ -26,9 +26,6 @@ collections:
   sessions:
     output: true
     permalink: /sessions/:path/
-  gm:
-    output: true
-    permalink: /gm/:path/
   pcs:
     output: true
     permalink: /pcs/:path/
@@ -50,12 +47,6 @@ defaults:
   - scope:
       path: ""
       type: "sessions"
-    values:
-      layout: page
-      toc: true
-  - scope:
-      path: ""
-      type: "gm"
     values:
       layout: page
       toc: true
